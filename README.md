@@ -1,4 +1,5 @@
 # BayesPen
+Please change the workspace accordingly.
 An implementation of Bayesian Regularized methods with R and C.
 Blasso.R implements Bayesian lasso when Lambda is fixed and when Lambda is given a Prior
 Blassoem.R implements Bayesian elastic net
